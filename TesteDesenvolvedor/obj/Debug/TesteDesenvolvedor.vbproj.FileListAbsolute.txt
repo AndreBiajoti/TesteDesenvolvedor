@@ -40,7 +40,6 @@ C:\Users\André\Desktop\TesteDesenvolvedor\TesteDesenvolvedor\bin\System.Web.Web
 C:\Users\André\Desktop\TesteDesenvolvedor\TesteDesenvolvedor\bin\System.Web.WebPages.Razor.xml
 C:\Users\André\Desktop\TesteDesenvolvedor\TesteDesenvolvedor\bin\Antlr3.Runtime.pdb
 C:\Users\André\Desktop\TesteDesenvolvedor\TesteDesenvolvedor\bin\Newtonsoft.Json.xml
-C:\Users\André\Desktop\TesteDesenvolvedor\TesteDesenvolvedor\obj\Debug\TesteDesenvolvedor.vbprojResolveAssemblyReference.cache
 C:\Users\André\Desktop\TesteDesenvolvedor\TesteDesenvolvedor\obj\Debug\TesteDesenvolvedor.Resources.resources
 C:\Users\André\Desktop\TesteDesenvolvedor\TesteDesenvolvedor\obj\Debug\TesteDesenvolvedor.vbproj.GenerateResource.Cache
 C:\Users\André\Desktop\TesteDesenvolvedor\TesteDesenvolvedor\obj\Debug\TesteDesenvolvedor.dll
